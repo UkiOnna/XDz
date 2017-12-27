@@ -1,0 +1,6 @@
+c:\users\сикировт\documents\visual studio 2017\Projects\XmlDz\XmlDz\bin\Debug\XmlDz.exe.config
+c:\users\сикировт\documents\visual studio 2017\Projects\XmlDz\XmlDz\bin\Debug\XmlDz.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\XmlDz\XmlDz\bin\Debug\XmlDz.pdb
+c:\users\сикировт\documents\visual studio 2017\Projects\XmlDz\XmlDz\obj\Debug\XmlDz.csprojResolveAssemblyReference.cache
+c:\users\сикировт\documents\visual studio 2017\Projects\XmlDz\XmlDz\obj\Debug\XmlDz.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\XmlDz\XmlDz\obj\Debug\XmlDz.pdb
